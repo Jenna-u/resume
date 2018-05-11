@@ -46,7 +46,7 @@ UI工程师
 2. 引入Eslint 规范日常代码
 3. 引入jest 实现基本的单元测试
 
-#### [在线练习系统](https://www.smartstudy.com/toefl/exercise.html)
+#### [在线练习系统](https://www.smartstudy.com/toefl/exercise?examinationId=1)
 简介: 集合各类型英语题，提供试题解析，套题报告分析，帮助学生提高英语能力  
 职责：核心React组件开发，版本迭代  
 核心技术涉及：  
@@ -63,7 +63,7 @@ UI工程师
 2. 使用 Webpack 作为项目构建工具
 3. 实现服务端渲染, 便于SEO搜索
 
-#### [TOEFL模考系统](https://www.smartstudy.com/toefl/test.html)
+#### [TOEFL模考系统](https://www.smartstudy.com/toefl/test)
 简介: 真实模拟官方TOEFL模考系统，让学生有亲临模考现场的体验  
 职责：网页端和桌面应用的前端开发，版本迭代  
 核心技术涉及： 
